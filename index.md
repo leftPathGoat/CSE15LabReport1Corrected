@@ -13,10 +13,10 @@ Lab Report 1
 
 **Step 4:** Open the command palette by pressing Ctrl + Shift + P and enter Select Default Profile (Click on Git Bash from the options)
 
-**Step 5:** Now your terminal should have two options when pressing + icon: powershell and bash
+**Step 5: Only Windows users need to follow this step** Now your terminal should have two options when pressing + icon: powershell and bash
 ![Image](powershell and bash.jpg)
 
-**Step 6:** In the terminal, enter command $ ssh cs15lsp23aa@ieng6.ucsd.edu (aa should be replaced by your own course-specific username)
+**Step 6:** In the terminal, enter command `$ ssh cs15lsp23aa@ieng6.ucsd.edu` (aa should be replaced by your own course-specific username)
 
 Then use your course-specific password to login (The password won't be shown on terminal when you enter)
 
