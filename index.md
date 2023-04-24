@@ -52,4 +52,4 @@ Here is `$ ls -lat` result on the remote PC:
 
 Here is `$ ls -lat` result on the my PC:
 ![Image](ls -lat.jpg)
-(TO LOG OUT THE REMOTE SERVER $ exit)
+(TO LOG OUT THE REMOTE SERVER `$ exit`)
