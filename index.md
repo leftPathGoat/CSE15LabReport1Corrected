@@ -47,9 +47,9 @@ cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 ````
 
-Here is `$ ls -lat` result on the remote PC:
+Here is `$ ssh ls -lat` result on the remote PC:
 ![Image](las -lat.jpg)
 
-Here is `$ ls -lat` result on the my PC:
+Here is `$ ssh ls -lat` result on the my PC:
 ![Image](ls -lat.jpg)
-(TO LOG OUT THE REMOTE SERVER `$ exit`)
+(TO LOG OUT THE REMOTE SERVER `$ ssh exit`)
